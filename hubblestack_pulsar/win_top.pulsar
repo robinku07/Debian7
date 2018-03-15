@@ -1,3 +1,0 @@
-pulsar:
-  '*':
-    - hubblestack_pulsar_win_config
